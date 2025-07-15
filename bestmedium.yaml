@@ -1,0 +1,31 @@
+# 12/12 iterations complete ✅ (20895.73s)
+# Results saved to /teamspace/studios/this_studio/runs/detect/tunem
+# Best fitness=0.3464 observed at iteration 6
+# Best fitness metrics are None
+# Best fitness model is None
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.01128
+lrf: 0.00953
+momentum: 0.95649
+weight_decay: 0.00048
+warmup_epochs: 3.25884
+warmup_momentum: 0.56904
+box: 7.45712
+cls: 0.53809
+dfl: 1.75253
+hsv_h: 0.01404
+hsv_s: 0.71204
+hsv_v: 0.53907
+degrees: 0.0
+translate: 0.09673
+scale: 0.46817
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.51002
+bgr: 0.0
+mosaic: 0.85683
+mixup: 0.0
+cutmix: 0.0
+copy_paste: 0.0
